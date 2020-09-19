@@ -16,3 +16,5 @@ If you are going to modify this, then you are dumb because you will probably get
 If you end up getting into trouble, I am not liable in any way and it's not my responsibility because I just want to help Chromebook users such as myself because chromebooks are very limited and we can't do anything on a chromebook....Please do not use this in bad intent.
 
 I am not responsible for any damage in any way; I will block off all communication related to this.
+
+Update -> Deleted Discord.py and other package files
