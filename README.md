@@ -6,6 +6,8 @@ Discord on Cross-OS Linux is just to slow! But you want to show off or have a co
 Watching, Playing, Listening, or Streaming statuses can be on your profile, even if you aren't doing it.
 Plus, be online 24/7 ---- Good for moderators or Server Owners so people can dm you
 
+
+Download as zip, go to repl.it, and then upload all the files
 -------------------------------------------------------------------------------------------------------------
 - Warning, this is probably against Discord's ToS because it doesn't do malicious or bad things in any way, but Discord apparently does not like so-called "self-bots" even though this is not a selfbot script.
 
